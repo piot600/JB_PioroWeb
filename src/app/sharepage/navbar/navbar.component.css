@@ -1,0 +1,21 @@
+
+/*.navbar-light, .navbar-nav, .nav-link{
+  font-weight: bold;
+  color: var(--secondary-color);
+}*/
+
+.navbar-light, .navbar-nav, .nav-link.active-link{
+  font-weight: bold;
+  color: var(--primary-color);
+  }
+
+.active-link{
+  text-decoration: underline;
+}
+
+.navbar{
+  background-color: lightgray;
+}
+
+
+

@@ -1,0 +1,20 @@
+.banner{
+  background-image: url('../../../../assets/homeimg/banner-tailor2.jpg');
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner h1{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+.banner h1 img{
+  width: 500px;
+  height: auto;
+  background-size: contain;
+  text-align: center;
+}
